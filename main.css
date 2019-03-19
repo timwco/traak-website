@@ -1,0 +1,19 @@
+html, body { 
+  max-width: 100%;
+  min-height: 100%;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #27282d;
+  /*background-image: linear-gradient(#27282d, #363942);*/
+}
+
+.container {
+  text-align: right;
+  margin: 200px auto;
+  width: 20%;
+}
+.container img {
+  max-width: 100%
+}
